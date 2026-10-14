@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+learning+for+biomedical+problems;Implementing+neural+networks+%26+GNNs;From+data+to+trained+models" alt="Typing animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+learning+for+biomedical+problems;Implementing+neural+networks+%26+GNNs;From+data+to+trained+models">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=1B5E8C&center=true&vCenter=true&width=700&lines=Machine+learning+for+biomedical+problems;Implementing+neural+networks+%26+GNNs;From+data+to+trained+models" alt="Typing animation" />
+  </picture>
 </p>
 
 <p align="center">
@@ -19,7 +22,7 @@ I recently finished my master's in *Automation and Informatization in Chemistry 
 
 - 🔬 Background in the lab (PCR, ELISA) and in code, a handy combination for biomedical ML
 - 🖥️ Hands-on experience with high-performance computing on the **SAV HPC Devana** supercomputer
-- 🌍 English (working language) · German (learning)
+- 🌍 English (working language), German (learning)
 - 📚 Currently expanding my ML knowledge with online courses (latest: *Machine Learning with Python* by IBM on Coursera)
 
 ---
@@ -47,9 +50,8 @@ I recently finished my master's in *Automation and Informatization in Chemistry 
   <img src="https://img.shields.io/badge/Lab%20data%20analysis-2E8B57?style=for-the-badge" alt="Lab data analysis"/>
 </p>
 
-
 <details>
-<summary><b>🧠 Machine learning toolbox</b></summary>
+<summary><b>Machine learning toolbox</b></summary>
 
 - Neural networks and graph neural networks (DimeNet++, GemNet)
 - SOAP descriptors for molecular structure
@@ -59,14 +61,14 @@ I recently finished my master's in *Automation and Informatization in Chemistry 
 </details>
 
 <details>
-<summary><b>🌐 Web development</b></summary>
+<summary><b>Web development</b></summary>
 
 Semester project: migrated a department web application from procedural PHP to **Laravel** (MVC), with full CRUD operations, searchable and sortable DataTables, and export to Excel, CSV and PDF.
 
 </details>
 
 <details>
-<summary><b>🔬 Laboratory background </b></summary>
+<summary><b>Laboratory background</b></summary>
 
 Bachelor's in *Food, Nutrition and Cosmetics* at **STU Bratislava**. My thesis dealt with the production of staphylococcal enterotoxins in *S. aureus* isolates. I worked hands-on with **PCR** and **ELISA** and learned to interpret complex, sometimes inconsistent laboratory data.
 
@@ -86,10 +88,10 @@ My master's thesis: predicting **molecular docking scores** at the active site o
 | **DimeNet++** | Directional message passing over distances and angles (PyTorch Geometric) |
 | **GemNet** | Geometric message passing with triplet interactions |
 
-⚙️ Hyperparameters tuned with **Hyperopt (TPE)**, large-scale runs on the **Devana HPC**.
+Hyperparameters tuned with **Hyperopt (TPE)**, large-scale runs on the **Devana HPC**.
 
 <details>
-<summary><b>🔎 Click to see how the pipeline works</b></summary>
+<summary><b>How the pipeline works</b></summary>
 
 1. Molecules are loaded from `.xyz` files (positions, atomic numbers, docking score as the target)
 2. Data is split into train and validation sets with a fixed seed
@@ -102,5 +104,5 @@ My master's thesis: predicting **molecular docking scores** at the active site o
 ---
 
 <p align="center">
-  💬 Open to interesting ML and biomedical projects, from implementation to evaluation. Feel free to reach out via LinkedIn!
+  Open to interesting ML and biomedical projects, from implementation to evaluation. Feel free to reach out via LinkedIn.
 </p>
